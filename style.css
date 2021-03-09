@@ -5,7 +5,7 @@
 }
 .clear:after,
 .clearfix:not(.grid-container):after,
-.grid-container:after {
+.grid-container:after {/* what about other? */
  clear:both
 }
 .grid-container {
